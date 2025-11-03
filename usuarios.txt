@@ -1,0 +1,4 @@
+valdir
+git
+daiany
+theo
